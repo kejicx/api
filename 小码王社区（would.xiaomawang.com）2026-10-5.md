@@ -1,4 +1,4 @@
-# world.xiaomawang.com 全量业务 API 接口文档
+# world.xiaomawang.com API 接口文档
 
 > 站点：小码王 Scratch 编程社区 — Scratch / Python 图形化编程创作与社交学习平台
 > 抓取时间：2026-10-05
