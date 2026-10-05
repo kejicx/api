@@ -1,4 +1,5 @@
 # GitHub REST API 接口文档
+## 接口地址来自Github官方API，此文档仅作整理和翻译
 
 > **站点**：GitHub 开发者平台 REST API（`https://api.github.com`）  
 > **抓取时间**：2026-10-05  
